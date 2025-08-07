@@ -1,8 +1,13 @@
 # YouTube CLI Tool
 
-A simple, modular command-line tool to **download or stream YouTube videos and audio** using `yt-dlp` and `mpv`.
+A simple, modular command-line tool to **download or stream YouTube videos and audio**  
+using `yt-dlp` and `mpv`.
 
 > Built with ❤️ by Suman — lightweight, colorful, and beginner-friendly.
+
+---
+
+![Audio downloading](./assets/youtube-cli-audio-download.gif)
 
 ---
 
